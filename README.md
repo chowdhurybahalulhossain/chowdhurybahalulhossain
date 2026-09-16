@@ -23,10 +23,10 @@
   <a href="https://t.me/bahalulhossainchowdhury">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://wa.me/8801723740704">
+  <a href="https://wa.me/8801921806099">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@bahalulhossainchowdhury">
+  <a href="https://www.youtube.com/@BahalulHossainChowdhury-c8m">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://linktr.ee/bahalulhossainchowdhury">
