@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=bahalulhossainchowdhury@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=chowdhurybahalulhossain@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bahalulhossainchowdhury">
+  <a href="https://www.linkedin.com/in/bahalul-hossain-chowdhury/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
     <a href="https://bahalulhossainchowdhury.vercel.app/">
